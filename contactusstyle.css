@@ -1,0 +1,58 @@
+#wrap
+{
+	width:98%;
+	height:50%;
+	background-color:;
+	padding-top:20px;
+	padding-left:10px;
+	padding-right:10px;
+	
+}
+#left
+{
+	width:45%;
+	height:95%;
+	background-color:gray;
+	float:left;
+	border-radius:20px;
+	
+	
+}
+#right
+{
+	width:45%;
+	height:95%;
+	background-color:gray;
+	float:right;
+	border-radius:20px;
+}
+#bottom
+{
+	background-color:gray;
+	width:99%;
+	height:20%;
+	padding-right:5px;
+	border-radius:20px;
+}
+#leftstyle
+{
+	text-align:center;
+	color:white;
+	font-family:cooper;
+	font-size:20px;
+}
+#rightstyle
+{
+	text-align:center;
+	color:white;
+	font-family:cooper;
+	font-size:20px;
+}
+#bottomstyle
+{
+	color:white;
+	font-size:20px;
+	text-align:center;
+	font-weight:bold;
+	
+}
